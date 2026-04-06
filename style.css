@@ -1,0 +1,34 @@
+html body {
+    background-color: #fbfbf8;
+}
+
+.narrow {
+    max-width: 500px;
+    margin: 0 auto !important;
+}
+
+.center {
+    text-align: center;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.deliusfont {
+    font-family: "Delius";
+}
+
+.montserratfont {
+    font-family: "Montserrat";
+}
+
+.shortstackfont {
+    font-family: "Short Stack";
+}
+
+input {
+    border-radius: 20px !important;
+    margin-bottom: 5px !important;
+    width: 100%;
+}
